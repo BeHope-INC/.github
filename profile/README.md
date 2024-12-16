@@ -5,7 +5,6 @@ BeHope is a medical technology company dedicated to developing innovative soluti
 ## What We Do:
 
 Distribute medical devices and develop medical software: We distribute innovative medical devices and software tools that offer a variety of healthcare solutions.
-Advance medical research: We collaborate with leading researchers and institutions to drive advancements in medical technology.
 Improve patient care: We strive to create solutions that make healthcare more accessible, efficient, and patient-centered.
 
 ### Our Values:
